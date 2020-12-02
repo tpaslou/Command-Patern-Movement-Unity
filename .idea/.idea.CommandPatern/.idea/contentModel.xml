@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\thano\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\thano\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_CommandPatern.984189958.00" t="ExcludeRecursive" />
+    <e p="C:\Users\thano\Desktop\Handling-Events\02\demos\CommandPatern" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="Commands" t="Include">
+            <e p="ClickCommand.cs" t="Include" />
+            <e p="MoveDownCommand.cs" t="Include" />
+            <e p="MoveLeftCommand.cs" t="Include" />
+            <e p="MoveRightCommand.cs" t="Include" />
+            <e p="MoveUpCommand.cs" t="Include" />
+          </e>
+          <e p="Interfaces" t="Include">
+            <e p="ICommand.cs" t="Include" />
+          </e>
+          <e p="Managers" t="Include">
+            <e p="CommandManager.cs" t="Include" />
+            <e p="MovementCommandManager.cs" t="Include" />
+          </e>
+          <e p="Player" t="Include">
+            <e p="Player.cs" t="Include" />
+          </e>
+          <e p="UserClick.cs" t="Include" />
+        </e>
+      </e>
+      <e p="CommandPatern.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
